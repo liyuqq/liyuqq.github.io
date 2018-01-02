@@ -8,9 +8,9 @@ baseurl: ''
 # disqus_shortname: 'your-disqus-name'
 
 
-# author:
-#   name: 'Josh Gerdes'
-#   email: josh@joshgerdes.com
+author:
+  name: '奇'
+  email: subsky@gmail.com
 #   twitter_username: joshgerdes
 #   facebook_username: joshgerdes
 #   github_username:  joshgerdes
